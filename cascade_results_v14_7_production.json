@@ -1,18 +1,18 @@
 {
   "trm_assignment": "Operation Civilization Defense",
-  "timestamp": "2026-02-15T15:18:12.099474",
+  "timestamp": "2026-02-15T15:18:11.523009",
   "system_version": "_TRM_COMPLIANT",
   "trm_summary": {
     "total_scanned": 160,
-    "scam_count": 59,
-    "not_scam_count": 101,
-    "scam_percentage": "36.9%"
+    "scam_count": 57,
+    "not_scam_count": 103,
+    "scam_percentage": "35.6%"
   },
   "technical_breakdown": {
     "ERROR": 16,
     "DISPOSABLE_INFRA": 93,
     "FAKE_EXCHANGE": 48,
-    "SUSPICIOUS": 74,
+    "SUSPICIOUS": 77,
     "LEGITIMATE": 49,
     "PHISHING": 9,
     "PONZI_SCHEME": 22,
@@ -22,14 +22,7 @@
     "BRAND_IMPERSONATION": 2,
     "CLOAKING": 1
   },
-  "contagion_statistics": {
-    "passes_executed": 2,
-    "initial_scams": 66,
-    "urls_upgraded": 3,
-    "total_scam_urls": 69,
-    "contaminated_addresses": 187,
-    "contagion_ratio": 0.045454545454545456
-  },
+  "contagion_statistics": {},
   "intelligence_report": [
     {
       "url": "https://22betcanada.com",
@@ -472,15 +465,15 @@
     },
     {
       "url": "https://datahydru602.com",
-      "trm_classification": "SCAM",
+      "trm_classification": "NOT_SCAM",
       "crypto_addresses": [
         "10h2v10h5V15h4v5h5V10h2L12",
         "3c24c8bb598944afb13a34c3710d5d19"
       ],
-      "confidence": 0.99,
-      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=SCAM | Confidence=99.0% | Risk_Score=35pts | Addresses_Found=2 | Analysis: CONTAGION RULE (Pass 1): Site shares cryptographic infrastructure with confirmed criminal nodes. Shared address: 10h2v10h5V15...",
-      "detailed_threat_type": "SCAM",
-      "internal_classification": "SCAM",
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=SUSPICIOUS | Confidence=75.0% | Risk_Score=35pts | Addresses_Found=2 | Analysis: Moderate threat score (35 points) requires investigation",
+      "detailed_threat_type": "SUSPICIOUS",
+      "internal_classification": "SUSPICIOUS",
       "risk_score": 35,
       "heuristic_flags": [
         "new_ssl_2d",
@@ -489,18 +482,18 @@
       "semantic_classification": "SUSPICIOUS",
       "network_forensics": null,
       "cluster_detected": false,
-      "contagion_upgraded": true
+      "contagion_upgraded": false
     },
     {
       "url": "https://datahydruva.com",
-      "trm_classification": "SCAM",
+      "trm_classification": "NOT_SCAM",
       "crypto_addresses": [
         "10h2v10h5V15h4v5h5V10h2L12"
       ],
-      "confidence": 0.99,
-      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=SCAM | Confidence=99.0% | Risk_Score=50pts | Addresses_Found=1 | Analysis: CONTAGION RULE (Pass 1): Site shares cryptographic infrastructure with confirmed criminal nodes. Shared address: 10h2v10h5V15...",
-      "detailed_threat_type": "SCAM",
-      "internal_classification": "SCAM",
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=SUSPICIOUS | Confidence=75.0% | Risk_Score=50pts | Addresses_Found=1 | Analysis: Moderate threat score (25 points) requires investigation",
+      "detailed_threat_type": "SUSPICIOUS",
+      "internal_classification": "SUSPICIOUS",
       "risk_score": 50,
       "heuristic_flags": [
         "new_ssl_16d",
@@ -510,7 +503,7 @@
       "semantic_classification": "SUSPICIOUS",
       "network_forensics": null,
       "cluster_detected": true,
-      "contagion_upgraded": true
+      "contagion_upgraded": false
     },
     {
       "url": "https://daxonbrite.info",
@@ -1577,10 +1570,10 @@
         "38412165034492852181758597934",
         "3f8ba2027bc9ceb1b1764ecab15bae73f86c4632"
       ],
-      "confidence": 0.99,
-      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=SCAM | Confidence=99.0% | Risk_Score=95pts | Addresses_Found=7 | Analysis: CONTAGION RULE (Pass 1): Site shares cryptographic infrastructure with confirmed criminal nodes. Shared address: 1326b3e84230...",
-      "detailed_threat_type": "SCAM",
-      "internal_classification": "SCAM",
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=SUSPICIOUS | Confidence=75.0% | Risk_Score=95pts | Addresses_Found=7 | Analysis: High threat score (70 points) indicates scam activity",
+      "detailed_threat_type": "SUSPICIOUS",
+      "internal_classification": "SUSPICIOUS",
       "risk_score": 95,
       "heuristic_flags": [
         "crypto_addresses_7",
@@ -1589,7 +1582,7 @@
       "semantic_classification": "SUSPICIOUS",
       "network_forensics": null,
       "cluster_detected": true,
-      "contagion_upgraded": true
+      "contagion_upgraded": false
     },
     {
       "url": "https://rugroyale.xyz",
