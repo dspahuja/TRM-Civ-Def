@@ -1,0 +1,2948 @@
+{
+  "trm_assignment": "Operation Civilization Defense",
+  "timestamp": "2026-02-14T22:29:14.029453",
+  "system_version": "_TRM_COMPLIANT",
+  "trm_summary": {
+    "total_scanned": 160,
+    "scam_count": 56,
+    "not_scam_count": 104,
+    "scam_percentage": "35.0%"
+  },
+  "technical_breakdown": {
+    "LEGITIMATE": 44,
+    "ERROR": 31,
+    "DISPOSABLE_INFRA": 100,
+    "SUSPICIOUS": 65,
+    "FAKE_EXCHANGE": 47,
+    "PHISHING": 8,
+    "PONZI_SCHEME": 19,
+    "DRAINER": 11,
+    "PUMP_AND_DUMP": 2,
+    "PIG_BUTCHERING": 2,
+    "GAMBLING_SCAM": 1,
+    "AIRDROP_SCAM": 1,
+    "BRAND_IMPERSONATION": 2,
+    "CLOAKING": 1
+  },
+  "contagion_statistics": {
+    "passes_executed": 2,
+    "initial_scams": 59,
+    "urls_upgraded": 3,
+    "total_scam_urls": 62,
+    "contaminated_addresses": 189,
+    "contagion_ratio": 0.05084745762711865
+  },
+  "intelligence_report": [
+    {
+      "url": "https://22betcanada.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=0pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://8w.bqpxaf.xyz",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=0pts | Analysis: Site protocol failure correlated with high-risk infrastructure markers.",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "ssl_protocol_error",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://addmklwhisky.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [
+        "16957819554728af4f83d2c8bbcdaf9199797df675ed8",
+        "1695781955488ddd8068323ba55a438cad3a3a025b307",
+        "1704524734098ca7733c0243ce702"
+      ],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=SUSPICIOUS | Confidence=75.0% | Risk_Score=45pts | Addresses_Found=3 | Analysis: High threat score (45 points) indicates scam activity",
+      "detailed_threat_type": "SUSPICIOUS",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 45,
+      "heuristic_flags": [
+        "new_ssl_7d",
+        "crypto_addresses_3"
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://adnins.cloud",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=0pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://alayasbeauty.com",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [
+        "103915658888164673151751370712",
+        "112595005503961436531751524688",
+        "112786439043528273981751370718",
+        "1326b3e84230700ef15b3a29fb520639977513e0",
+        "144720871880492921681751709558",
+        "145944865380958730931751370728",
+        "167831755224568317711751370718",
+        "34326601112740934951751370705",
+        "38412165034492852181751370720",
+        "3c434e22befd5c18a6b4afadb1e3d77c128c7939"
+      ],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=SCAM | Confidence=99.0% | Risk_Score=100pts | Addresses_Found=10 | Analysis: SENTINEL OVERRIDE: Extreme forensic anomaly (100 pts). Technical evidence is irrefutable.",
+      "detailed_threat_type": "SCAM",
+      "internal_classification": "SCAM",
+      "risk_score": 100,
+      "heuristic_flags": [
+        "crypto_addresses_10"
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://astarwap.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=0pts | Analysis: Site protocol failure correlated with high-risk infrastructure markers.",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "dns_failure",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://aurionthexxa.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=0pts | Analysis: Site protocol failure correlated with high-risk infrastructure markers.",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "dns_failure",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://bahrainiptv.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=SUSPICIOUS | Confidence=75.0% | Risk_Score=15pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "SUSPICIOUS",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 15,
+      "heuristic_flags": [
+        "new_ssl_28d"
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://bian-gold.globalonline.workers.dev",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.95,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=PHISHING | Confidence=95.0% | Risk_Score=20pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "PHISHING",
+      "internal_classification": "SCAM",
+      "risk_score": 20,
+      "heuristic_flags": [
+        "new_ssl_9d"
+      ],
+      "semantic_classification": "PHISHING",
+      "network_forensics": "http_403",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://bitocitex.com",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.9,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=FAKE_EXCHANGE | Confidence=90.0% | Risk_Score=15pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "FAKE_EXCHANGE",
+      "internal_classification": "SCAM",
+      "risk_score": 15,
+      "heuristic_flags": [
+        "new_ssl_19d"
+      ],
+      "semantic_classification": "FAKE_EXCHANGE",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://bozei.xyz",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=0pts | Analysis: Site protocol failure correlated with high-risk infrastructure markers.",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "ssl_protocol_error",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://bradfordtradeins.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=0pts | Analysis: Site protocol failure correlated with high-risk infrastructure markers.",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "unknown",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://braiinscryptminning.com",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.6,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=PONZI_SCHEME | Confidence=60.0% | Risk_Score=5pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "PONZI_SCHEME",
+      "internal_classification": "SCAM",
+      "risk_score": 5,
+      "heuristic_flags": [
+        "ponzi_scheme_1"
+      ],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://busigirh.xyz",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=SUSPICIOUS | Confidence=75.0% | Risk_Score=15pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "SUSPICIOUS",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 15,
+      "heuristic_flags": [
+        "new_ssl_24d"
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://byexdd.cc",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=0pts | Analysis: Site protocol failure correlated with high-risk infrastructure markers.",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "ssl_protocol_error",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://ca7ggs-xj.myshopify.com",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [
+        "10110889665867715061762231653",
+        "101198305663325844211762231653",
+        "1058307c74890a16402e5c523d45ccc4",
+        "10cfd19a20aae97470c9fbec788b71d6",
+        "111870094811454961941762231653",
+        "116616134454508949461762231655",
+        "118923337488134913561762231653",
+        "120341546515895839841762231653",
+        "12a516dd73e5e53bd31569e4fcc041e6",
+        "13033300910818915211762231653",
+        "130590836869345997561762231655",
+        "132983761750457495441762231653",
+        "132df582bdd725b956df4dfe33711f28",
+        "133129549252120666541762231655",
+        "133508293167896966491762231653",
+        "135784227224860024771762231655",
+        "13653116266235556501762231653",
+        "14039311878856620671762231653",
+        "14096082462203297471762231653",
+        "144176611646395275351762231654",
+        "1454a2d0108781f78149c88fc8f36d7b",
+        "147478906057189667651762231653",
+        "151968516119678728991762231653",
+        "152760482443307489271762231653",
+        "15906652033866631521762231653",
+        "159347133892345898421762231653",
+        "159841507637079171801762231653",
+        "160630540099520878331762231655",
+        "161818056142182136911762231655",
+        "16203316012296685121762231655",
+        "164708765130180853531762231653",
+        "16477139885528072191762231655",
+        "165164710990765432851762231653",
+        "169981311261118214701762231653",
+        "170315343355214948141762231653",
+        "17933591812325749411762231653",
+        "179577762467860590411762231653",
+        "180727061ac3e6a234cf945cb8f119e3",
+        "181b4e020d6109051fc88ee13fb045ca",
+        "1a88d8af6e9c7b3aa67835874f0e8769",
+        "1ae51d98f27604480f17d8fd97cac38a",
+        "1ccbbd574db7fd92d40a94c7f6725c49",
+        "1d1ad6b40e3d3a78667c18e8f9bcbd31",
+        "1d945ab7aaaf4f9e4d9fd09ea7a949d6",
+        "1dccd443b3eb8235d5b5d5d6da8382dc",
+        "1ea38124b279c2416df6b493978da030",
+        "1eb3ae043c810aa530d470446f31feeb",
+        "1eb8a653b84f6acca0219cc54beac35f",
+        "3024a0f4e34ca7dc9ee76ebd3c519a83",
+        "3028a629c4affcfdd5b29cc13d065120",
+        "33d5bb379aebcde4d167f033df2d382e",
+        "34b09239ed51e9a61f19a88ab3f7fcea",
+        "34bcc718cc321ae168c1f9fc4675d6db",
+        "3566563af041eb64212d8e65c749fb85",
+        "35792976012981934991762231653",
+        "35e59d62315172a2d1d54dc0dab770e2",
+        "36d215ec8ce6c5a767e678b13f50862b",
+        "372cb8311b845822dc0f94eef709b010",
+        "37e4065a1f7e35bfaef4bbf802897a2a",
+        "390af7034abbeab1dea79b0a08e08eb0",
+        "39223250576183958541762231653",
+        "3a17356976367ffbf3dd2cee9d9ebad1",
+        "3a3cea975adfe6240593cd1e5388120d",
+        "3c4dd418d1e359368054a5f1f9c9b049",
+        "3c9ff57d6d41927b2c97b51af715b6ad",
+        "3d44a52383e9ab002dbd337a751479a3",
+        "3d49572a28be2f390a459064d1a6fb86",
+        "3e08b5ba3280cdc6e122982b8d112784",
+        "3edf06f0c8964eac1c6726937f7f352b",
+        "3f7d04eb7ec8fd8019d5e92429ef11ea"
+      ],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=SCAM | Confidence=99.0% | Risk_Score=700pts | Addresses_Found=70 | Analysis: SENTINEL OVERRIDE: Extreme forensic anomaly (700 pts). Technical evidence is irrefutable.",
+      "detailed_threat_type": "SCAM",
+      "internal_classification": "SCAM",
+      "risk_score": 700,
+      "heuristic_flags": [
+        "crypto_addresses_70"
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://choxorainvestment.cc",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=0pts | Analysis: Site protocol failure correlated with high-risk infrastructure markers.",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "ssl_protocol_error",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://claudetf.fun",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=0pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://cofuturexs.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=0pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://consultingfootpain.gr.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=0pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://copykoieliteglobal.org",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=0pts | Analysis: Site protocol failure correlated with high-risk infrastructure markers.",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "ssl_protocol_error",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://cryptotrackerapp.net",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=0pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://datahydru602.com",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [
+        "10h2v10h5V15h4v5h5V10h2L12",
+        "3c24c8bb598944afb13a34c3710d5d19"
+      ],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=SCAM | Confidence=99.0% | Risk_Score=35pts | Addresses_Found=2 | Analysis: CONTAGION RULE (Pass 1): Site shares cryptographic infrastructure with confirmed criminal nodes. Shared address: 10h2v10h5V15...",
+      "detailed_threat_type": "SCAM",
+      "internal_classification": "SCAM",
+      "risk_score": 35,
+      "heuristic_flags": [
+        "new_ssl_1d",
+        "crypto_addresses_2"
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": true
+    },
+    {
+      "url": "https://datahydruva.com",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [
+        "10h2v10h5V15h4v5h5V10h2L12"
+      ],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=SCAM | Confidence=99.0% | Risk_Score=50pts | Addresses_Found=1 | Analysis: CONTAGION RULE (Pass 1): Site shares cryptographic infrastructure with confirmed criminal nodes. Shared address: 10h2v10h5V15...",
+      "detailed_threat_type": "SCAM",
+      "internal_classification": "SCAM",
+      "risk_score": 50,
+      "heuristic_flags": [
+        "new_ssl_15d",
+        "crypto_addresses_1",
+        "CLUSTER: Linked to 1 node(s) via 10h2v10h5V15..."
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": null,
+      "cluster_detected": true,
+      "contagion_upgraded": true
+    },
+    {
+      "url": "https://daxonbrite.info",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=SUSPICIOUS | Confidence=75.0% | Risk_Score=15pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "SUSPICIOUS",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 15,
+      "heuristic_flags": [
+        "new_ssl_23d"
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://dbd414c671913cba9408de35257a7286.small1006.shop",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=SUSPICIOUS | Confidence=75.0% | Risk_Score=25pts | Analysis: Moderate threat score (25 points) requires investigation",
+      "detailed_threat_type": "SUSPICIOUS",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 25,
+      "heuristic_flags": [
+        "new_ssl_13d",
+        "high_entropy_3.84"
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://dexapp.uk",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [
+        "0x59F25596e30349e1bEf6477453FE55c7da5f0028",
+        "0xD499F95a6605550161cB9725A79c569bD3482F21"
+      ],
+      "confidence": 0.88,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=SUSPICIOUS | Confidence=88.0% | Risk_Score=20pts | Addresses_Found=2 | Analysis: Moderate threat score (20 points) requires investigation",
+      "detailed_threat_type": "SUSPICIOUS",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 20,
+      "heuristic_flags": [
+        "crypto_addresses_2"
+      ],
+      "semantic_classification": "PONZI_SCHEME",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://dreammallshopggroup.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=0pts | Analysis: Site protocol failure correlated with high-risk infrastructure markers.",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "dns_failure",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://dreamshopgroup.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=0pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://dropclutchsociety.com",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [
+        "108157308134495589801766111050",
+        "111870094811454961941766111050",
+        "113639710312857635801766111052",
+        "116010604417246430981766111050",
+        "118923337488134913561766111050",
+        "124756058432495035521766111052",
+        "12876392782820889961766111050",
+        "129068967981937647381766111052",
+        "12992178890097440491766111052",
+        "129932180309343703061766111052",
+        "132983761750457495441766111050",
+        "137625604348931474661766111050",
+        "145944865380958730931766111052",
+        "151968516119678728991766111050",
+        "152760482443307489271766111050",
+        "153497636716254413831766111050",
+        "157470423819771412911766111050",
+        "158357773527763999511766111052",
+        "160453272920806432391766111050",
+        "16264371234338852081766111050",
+        "167310470843593579841766111050",
+        "170850609144540289311766111050",
+        "175993886525155844911766111052",
+        "177281155662708122751766111050",
+        "18031546ee651571ed29edbe71a3550b",
+        "180884587654672216131766111050",
+        "183883492810467818381766111050",
+        "184225813856820874251766111050",
+        "1abf60a1262a5f61d3e7f19599b5bc79deae580f",
+        "30346802988262109031766111050",
+        "34202919601334509171766111052",
+        "39628375719901859641766111051"
+      ],
+      "confidence": 0.85,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=SUSPICIOUS | Confidence=85.0% | Risk_Score=320pts | Addresses_Found=32 | Analysis: AI suggested legitimacy but technical risk score (320 pts) is too high to ignore. TRM VETO applied.",
+      "detailed_threat_type": "SUSPICIOUS",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 320,
+      "heuristic_flags": [
+        "crypto_addresses_32"
+      ],
+      "semantic_classification": "LEGITIMATE",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://drops-marketplace.netlify.app",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [
+        "0xA562912e1328eEA987E04c2650EfB5703757850C",
+        "3WEeATYP2CCcGglid4tdXEzfp0GCxgc"
+      ],
+      "confidence": 0.78,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=SUSPICIOUS | Confidence=78.0% | Risk_Score=20pts | Addresses_Found=2 | Analysis: Moderate threat score (20 points) requires investigation",
+      "detailed_threat_type": "SUSPICIOUS",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 20,
+      "heuristic_flags": [
+        "crypto_addresses_2"
+      ],
+      "semantic_classification": "FAKE_EXCHANGE",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://elite-crown.com",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.92,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=PONZI_SCHEME | Confidence=92.0% | Risk_Score=15pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "PONZI_SCHEME",
+      "internal_classification": "SCAM",
+      "risk_score": 15,
+      "heuristic_flags": [
+        "new_ssl_26d"
+      ],
+      "semantic_classification": "PONZI_SCHEME",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://feed.gaiaaex.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=20pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SCAM",
+      "risk_score": 20,
+      "heuristic_flags": [
+        "new_ssl_10d"
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": "http_522",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://fortivexgroup.org",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=0pts | Analysis: Site protocol failure correlated with high-risk infrastructure markers.",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "ssl_protocol_error",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://fxo2o.me",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=0pts | Analysis: Site protocol failure correlated with high-risk infrastructure markers.",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "ssl_protocol_error",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://gete84.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [
+        "1ff3080535e14870add51d64fbfa29b2"
+      ],
+      "confidence": 0.79,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=79.0% | Risk_Score=10pts | Addresses_Found=1 | Analysis: Low threat score (10 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 10,
+      "heuristic_flags": [
+        "crypto_addresses_1"
+      ],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://goldmachine.international",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=0pts | Analysis: Site protocol failure correlated with high-risk infrastructure markers.",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "dns_failure",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://gxecgcx.com",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.92,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=FAKE_EXCHANGE | Confidence=92.0% | Risk_Score=15pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "FAKE_EXCHANGE",
+      "internal_classification": "SCAM",
+      "risk_score": 15,
+      "heuristic_flags": [
+        "new_ssl_8d"
+      ],
+      "semantic_classification": "FAKE_EXCHANGE",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://h5.bit-main.cc",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=0pts | Analysis: Site protocol failure correlated with high-risk infrastructure markers.",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "ssl_protocol_error",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://h5.bitmain-ex.co",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=5pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 5,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "http_523",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://h5.bitxex.quest",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=0pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://h5.mitrade-store.com",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.9,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=FAKE_EXCHANGE | Confidence=90.0% | Risk_Score=15pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "FAKE_EXCHANGE",
+      "internal_classification": "SCAM",
+      "risk_score": 15,
+      "heuristic_flags": [
+        "new_ssl_25d"
+      ],
+      "semantic_classification": "FAKE_EXCHANGE",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://heysylas.top",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=0pts | Analysis: Site protocol failure correlated with high-risk infrastructure markers.",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "ssl_protocol_error",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://ifcrepe.top",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=20pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SCAM",
+      "risk_score": 20,
+      "heuristic_flags": [
+        "new_ssl_22d"
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": "http_522",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://iffepi.com",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [
+        "0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b",
+        "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c",
+        "0x3e2d6fa11fd5a8a360c121a1e9bb3bdf72d8b502",
+        "0x4F9Fd6Be4a90f2620860d680c0d4d5Fb53d1A825",
+        "0x9e10469cd2cd93836e19484a9ca1ef5addc43e0f",
+        "0xFDFfB411C4A70AA7C95D5C981a6Fb4Da867e1111",
+        "0xb0bb080667e52bd84884d2c90322706c4aa9067b",
+        "0xeF4461891DfB3AC8572cCf7C794664A8DD927945",
+        "0xec53bf9167f50cdeb3ae105f56099aaab9061f83",
+        "0xf30d150250f5301ef34a0e4a64aafa93f242d87a",
+        "1TRoEZuWwk00WQjhUpbvVa0nvEo80",
+        "33lxEdAASHlEX2UAeAA4ssEU2vuBUGoQ8AH5RgBeoJnEUXsdSdA",
+        "3K8UECx2dMJDAwC0gXx5bfS25BaTKidgGB",
+        "3qqZltVzXnR2XWojTCygjsVuW2a"
+      ],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=SCAM | Confidence=99.0% | Risk_Score=140pts | Addresses_Found=14 | Analysis: SENTINEL OVERRIDE: Extreme forensic anomaly (140 pts). Technical evidence is irrefutable.",
+      "detailed_threat_type": "SCAM",
+      "internal_classification": "SCAM",
+      "risk_score": 140,
+      "heuristic_flags": [
+        "crypto_addresses_14"
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://infinitecloudmarket.org",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.95,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=PONZI_SCHEME | Confidence=95.0% | Risk_Score=15pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "PONZI_SCHEME",
+      "internal_classification": "SCAM",
+      "risk_score": 15,
+      "heuristic_flags": [
+        "new_ssl_9d"
+      ],
+      "semantic_classification": "PONZI_SCHEME",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://infinitifutures.ae",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.92,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=FAKE_EXCHANGE | Confidence=92.0% | Risk_Score=15pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "FAKE_EXCHANGE",
+      "internal_classification": "SCAM",
+      "risk_score": 15,
+      "heuristic_flags": [
+        "new_ssl_10d"
+      ],
+      "semantic_classification": "FAKE_EXCHANGE",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://interactivemining-brokers.com",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [
+        "1138b717de279c3e38de0bf305c7abce",
+        "3c9ba66681b9e422e58145ac10bf606c4da29543"
+      ],
+      "confidence": 0.95,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=PONZI_SCHEME | Confidence=95.0% | Risk_Score=60pts | Addresses_Found=2 | Analysis: High threat score (60 points) indicates scam activity",
+      "detailed_threat_type": "PONZI_SCHEME",
+      "internal_classification": "SCAM",
+      "risk_score": 60,
+      "heuristic_flags": [
+        "new_ssl_24d",
+        "ponzi_scheme_1",
+        "pig_butchering_1",
+        "crypto_addresses_2",
+        "js_obfuscation"
+      ],
+      "semantic_classification": "PONZI_SCHEME",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://internationalbronzetrading.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [
+        "155573354001556172171762595000"
+      ],
+      "confidence": 0.79,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=79.0% | Risk_Score=10pts | Addresses_Found=1 | Analysis: Low threat score (10 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 10,
+      "heuristic_flags": [
+        "crypto_addresses_1"
+      ],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://kadven.io",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.6,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=PUMP_AND_DUMP | Confidence=60.0% | Risk_Score=10pts | Analysis: Multiple threat indicators detected (2 categories)",
+      "detailed_threat_type": "PUMP_AND_DUMP",
+      "internal_classification": "SCAM",
+      "risk_score": 10,
+      "heuristic_flags": [
+        "pump_and_dump_1",
+        "fake_exchange_1"
+      ],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://keystonevaults.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=0pts | Analysis: Site protocol failure correlated with high-risk infrastructure markers.",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "ssl_protocol_error",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://koserwry.xyz",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=SUSPICIOUS | Confidence=75.0% | Risk_Score=15pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "SUSPICIOUS",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 15,
+      "heuristic_flags": [
+        "new_ssl_24d"
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://learingcenter.fun",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [
+        "3kC6gheQ5fxK8iKWWDHeomHU5Z6U2dUWfqEK6dpLpump"
+      ],
+      "confidence": 0.79,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=79.0% | Risk_Score=10pts | Addresses_Found=1 | Analysis: Low threat score (10 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 10,
+      "heuristic_flags": [
+        "crypto_addresses_1"
+      ],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://luminex3.net",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=0pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://m.bit-ligne.sbs",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [
+        "1uGuDnMhAvlTP0p1V8qz3eFjCJaVguB5",
+        "38PGoEhPApYE9qkpqQWR00WN6iMPG",
+        "3oiZa0tMQSo9xGbrLkdxrbrp6NevUeYY"
+      ],
+      "confidence": 0.92,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=AIRDROP_SCAM | Confidence=92.0% | Risk_Score=50pts | Addresses_Found=3 | Analysis: High threat score (50 points) indicates scam activity",
+      "detailed_threat_type": "AIRDROP_SCAM",
+      "internal_classification": "SCAM",
+      "risk_score": 50,
+      "heuristic_flags": [
+        "new_ssl_10d",
+        "airdrop_scam_1",
+        "crypto_addresses_3"
+      ],
+      "semantic_classification": "FAKE_EXCHANGE",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://m.coinshouseltd.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=0pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://m.kisngaf.shop",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=0pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://m.lon28.click",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=SUSPICIOUS | Confidence=75.0% | Risk_Score=15pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "SUSPICIOUS",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 15,
+      "heuristic_flags": [
+        "new_ssl_29d"
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://market3.bfxtrade.top",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [
+        "12c30a4b52324f9ab4af80c65b8012ef"
+      ],
+      "confidence": 0.92,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=FAKE_EXCHANGE | Confidence=92.0% | Risk_Score=25pts | Addresses_Found=1 | Analysis: Moderate threat score (25 points) requires investigation",
+      "detailed_threat_type": "FAKE_EXCHANGE",
+      "internal_classification": "SCAM",
+      "risk_score": 25,
+      "heuristic_flags": [
+        "new_ssl_17d",
+        "crypto_addresses_1"
+      ],
+      "semantic_classification": "FAKE_EXCHANGE",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://maxnero-experts.org",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.95,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=PONZI_SCHEME | Confidence=95.0% | Risk_Score=20pts | Analysis: Moderate threat score (20 points) requires investigation",
+      "detailed_threat_type": "PONZI_SCHEME",
+      "internal_classification": "SCAM",
+      "risk_score": 20,
+      "heuristic_flags": [
+        "ponzi_scheme_1",
+        "js_obfuscation"
+      ],
+      "semantic_classification": "PONZI_SCHEME",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://metacapitalinvestment.pro",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=SCAM | Confidence=99.0% | Risk_Score=100pts | Analysis: SENTINEL OVERRIDE: Extreme forensic anomaly (100 pts). Technical evidence is irrefutable.",
+      "detailed_threat_type": "SCAM",
+      "internal_classification": "SCAM",
+      "risk_score": 100,
+      "heuristic_flags": [
+        "new_ssl_4d",
+        "CRITICAL_BRAND_IMPERSONATION_META"
+      ],
+      "semantic_classification": "PHISHING",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://minegridtech.com",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.95,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=PONZI_SCHEME | Confidence=95.0% | Risk_Score=20pts | Analysis: Moderate threat score (20 points) requires investigation",
+      "detailed_threat_type": "PONZI_SCHEME",
+      "internal_classification": "SCAM",
+      "risk_score": 20,
+      "heuristic_flags": [
+        "new_ssl_8d",
+        "ponzi_scheme_1"
+      ],
+      "semantic_classification": "PONZI_SCHEME",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://mofasbit.net",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.6,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=PONZI_SCHEME | Confidence=60.0% | Risk_Score=5pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "PONZI_SCHEME",
+      "internal_classification": "SCAM",
+      "risk_score": 5,
+      "heuristic_flags": [
+        "ponzi_scheme_1"
+      ],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://moneyproo.com",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.78,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=PONZI_SCHEME | Confidence=78.0% | Risk_Score=25pts | Analysis: Moderate threat score (25 points) requires investigation",
+      "detailed_threat_type": "PONZI_SCHEME",
+      "internal_classification": "SCAM",
+      "risk_score": 25,
+      "heuristic_flags": [
+        "new_ssl_26d",
+        "ponzi_scheme_2"
+      ],
+      "semantic_classification": "PONZI_SCHEME",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://nexcofxs.org",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.6,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=FAKE_EXCHANGE | Confidence=60.0% | Risk_Score=5pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "FAKE_EXCHANGE",
+      "internal_classification": "SCAM",
+      "risk_score": 5,
+      "heuristic_flags": [
+        "fake_exchange_1"
+      ],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://niaexchangegroup.com",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.92,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=FAKE_EXCHANGE | Confidence=92.0% | Risk_Score=15pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "FAKE_EXCHANGE",
+      "internal_classification": "SCAM",
+      "risk_score": 15,
+      "heuristic_flags": [
+        "new_ssl_4d"
+      ],
+      "semantic_classification": "FAKE_EXCHANGE",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://niupi.3455n.top",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=SUSPICIOUS | Confidence=75.0% | Risk_Score=15pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "SUSPICIOUS",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 15,
+      "heuristic_flags": [
+        "new_ssl_7d"
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://novaex.io",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=0pts | Analysis: Site protocol failure correlated with high-risk infrastructure markers.",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "dns_failure",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://novarenthionex.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=0pts | Analysis: Site protocol failure correlated with high-risk infrastructure markers.",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "ssl_protocol_error",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://onestopchoices.com",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [
+        "10468376944751891321763304398",
+        "109634914655341267961763304396",
+        "112233727240338732471763304396",
+        "118034769469622268351763304396",
+        "122719776364282065531763304395",
+        "123854488726055376771763304396",
+        "12600227346477697581763304395",
+        "126232407243116776231763304398",
+        "136349610325169103951763304397",
+        "143176046425114009521763304396",
+        "150287457454705182001763304396",
+        "152895518340062080591763304398",
+        "154429112009392702361763304395",
+        "154856873702776656331763304395",
+        "157690316787871718881763304398",
+        "160160302884525886651763304395",
+        "161067507400668361321763304396",
+        "162524859697928915511763304397",
+        "164616260963476715651763304395",
+        "173460233946013614451763304396",
+        "179779302447055392851763304398",
+        "18031546ee651571ed29edbe71a3550b",
+        "18320497342874123791763304396",
+        "184047675964491202981763304397",
+        "32841863140776607611763304397",
+        "34ad157958823915625854214640f0bf",
+        "39635414831695938921763304396",
+        "397624950818544711763304397",
+        "3kdERUYAAARgAAAAHgAAACAAMwAGT1MvMgAAAZgAAABGAAAAVi"
+      ],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=SCAM | Confidence=99.0% | Risk_Score=315pts | Addresses_Found=29 | Analysis: SENTINEL OVERRIDE: Extreme forensic anomaly (315 pts). Technical evidence is irrefutable.",
+      "detailed_threat_type": "SCAM",
+      "internal_classification": "SCAM",
+      "risk_score": 315,
+      "heuristic_flags": [
+        "crypto_addresses_29",
+        "CLUSTER: Linked to 1 node(s) via 18031546ee65..."
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": null,
+      "cluster_detected": true,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://openai9315.com",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [
+        "10h2v10h5V15h4v5h5V10h2L12"
+      ],
+      "confidence": 0.92,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=PHISHING | Confidence=92.0% | Risk_Score=60pts | Addresses_Found=1 | Analysis: Low threat score (10 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "PHISHING",
+      "internal_classification": "SCAM",
+      "risk_score": 60,
+      "heuristic_flags": [
+        "crypto_addresses_1",
+        "CLUSTER: Linked to 2 node(s) via 10h2v10h5V15..."
+      ],
+      "semantic_classification": "PHISHING",
+      "network_forensics": null,
+      "cluster_detected": true,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://optiontradingsignalsfx.live",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=0pts | Analysis: Site protocol failure correlated with high-risk infrastructure markers.",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "ssl_protocol_error",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://orotoken.io",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [
+        "0x12187FAccE28Cf3F09653ba913c586CdE9A8B774",
+        "0xdd92c611f057807d809509ef0524ceb68042dd5e"
+      ],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=SUSPICIOUS | Confidence=75.0% | Risk_Score=20pts | Addresses_Found=2 | Analysis: Moderate threat score (20 points) requires investigation",
+      "detailed_threat_type": "SUSPICIOUS",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 20,
+      "heuristic_flags": [
+        "crypto_addresses_2"
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://pinshici.cc",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=0pts | Analysis: Site protocol failure correlated with high-risk infrastructure markers.",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "ssl_protocol_error",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://primesuccessfinance.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=SUSPICIOUS | Confidence=75.0% | Risk_Score=15pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "SUSPICIOUS",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 15,
+      "heuristic_flags": [
+        "new_ssl_24d"
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://prohavensequity.com",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.92,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=FAKE_EXCHANGE | Confidence=92.0% | Risk_Score=15pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "FAKE_EXCHANGE",
+      "internal_classification": "SCAM",
+      "risk_score": 15,
+      "heuristic_flags": [
+        "new_ssl_3d"
+      ],
+      "semantic_classification": "FAKE_EXCHANGE",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://proymsi.xyz",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=SUSPICIOUS | Confidence=75.0% | Risk_Score=15pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "SUSPICIOUS",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 15,
+      "heuristic_flags": [
+        "new_ssl_24d"
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://pugmeme.io",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=0pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://quantaraxxx.org",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [
+        "132d27a21d55436aa811a78da5d753bd"
+      ],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=SUSPICIOUS | Confidence=75.0% | Risk_Score=25pts | Addresses_Found=1 | Analysis: Moderate threat score (25 points) requires investigation",
+      "detailed_threat_type": "SUSPICIOUS",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 25,
+      "heuristic_flags": [
+        "new_ssl_26d",
+        "crypto_addresses_1"
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://r7t2mj.xyz",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.9,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=FAKE_EXCHANGE | Confidence=90.0% | Risk_Score=15pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "FAKE_EXCHANGE",
+      "internal_classification": "SCAM",
+      "risk_score": 15,
+      "heuristic_flags": [
+        "new_ssl_11d"
+      ],
+      "semantic_classification": "FAKE_EXCHANGE",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://renega.nl",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [
+        "103915658888164673151758597934",
+        "1326b3e84230700ef15b3a29fb520639977513e0",
+        "1a6c50dce2e2b3b0d31e02dbd9146b5064bea503",
+        "34326601112740934951758597934",
+        "37cf9b8cf43b3322f7e6e13ad2aad62ab5dc9109",
+        "38412165034492852181758597934",
+        "3f8ba2027bc9ceb1b1764ecab15bae73f86c4632"
+      ],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=SCAM | Confidence=99.0% | Risk_Score=95pts | Addresses_Found=7 | Analysis: CONTAGION RULE (Pass 1): Site shares cryptographic infrastructure with confirmed criminal nodes. Shared address: 1326b3e84230...",
+      "detailed_threat_type": "SCAM",
+      "internal_classification": "SCAM",
+      "risk_score": 95,
+      "heuristic_flags": [
+        "crypto_addresses_7",
+        "CLUSTER: Linked to 1 node(s) via 1326b3e84230..."
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": null,
+      "cluster_detected": true,
+      "contagion_upgraded": true
+    },
+    {
+      "url": "https://rugroyale.xyz",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=0pts | Analysis: Site protocol failure correlated with high-risk infrastructure markers.",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "ssl_protocol_error",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://samarpanbusiness.com",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.92,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=FAKE_EXCHANGE | Confidence=92.0% | Risk_Score=20pts | Analysis: Moderate threat score (20 points) requires investigation",
+      "detailed_threat_type": "FAKE_EXCHANGE",
+      "internal_classification": "SCAM",
+      "risk_score": 20,
+      "heuristic_flags": [
+        "new_ssl_13d",
+        "fake_exchange_1"
+      ],
+      "semantic_classification": "PONZI_SCHEME",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://sesiocreditunion.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=0pts | Analysis: Site protocol failure correlated with high-risk infrastructure markers.",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "dns_failure",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://shopelio.nl",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [
+        "103915658888164673151751370712",
+        "112595005503961436531751524688",
+        "112786439043528273981751370718",
+        "1326b3e84230700ef15b3a29fb520639977513e0",
+        "144720871880492921681751709558",
+        "145944865380958730931751370728",
+        "167831755224568317711751370718",
+        "34326601112740934951751370705",
+        "38412165034492852181751370720",
+        "3c434e22befd5c18a6b4afadb1e3d77c128c7939"
+      ],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=SCAM | Confidence=99.0% | Risk_Score=265pts | Addresses_Found=10 | Analysis: SENTINEL OVERRIDE: Extreme forensic anomaly (265 pts). Technical evidence is irrefutable.",
+      "detailed_threat_type": "SCAM",
+      "internal_classification": "SCAM",
+      "risk_score": 265,
+      "heuristic_flags": [
+        "new_ssl_1d",
+        "crypto_addresses_10",
+        "CLUSTER: Linked to 1 node(s) via 103915658888... | Linked to 1 node(s) via 112595005503... | Linked to 1 node(s) via 112786439043... | Linked to 2 node(s) via 1326b3e84230... | Linked to 1 node(s) via 144720871880... | Linked to 1 node(s) via 145944865380... | Linked to 1 node(s) via 167831755224... | Linked to 1 node(s) via 343266011127... | Linked to 1 node(s) via 384121650344... | Linked to 1 node(s) via 3c434e22befd..."
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": null,
+      "cluster_detected": true,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://smartgrowsavings.com",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.7,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=PONZI_SCHEME | Confidence=70.0% | Risk_Score=10pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "PONZI_SCHEME",
+      "internal_classification": "SCAM",
+      "risk_score": 10,
+      "heuristic_flags": [
+        "ponzi_scheme_2"
+      ],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://teslaprimeholding.com",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.85,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=SUSPICIOUS | Confidence=85.0% | Risk_Score=100pts | Analysis: AI suggested legitimacy but technical risk score (100 pts) is too high to ignore. TRM VETO applied.",
+      "detailed_threat_type": "SUSPICIOUS",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 100,
+      "heuristic_flags": [
+        "CRITICAL_BRAND_IMPERSONATION_TESLA"
+      ],
+      "semantic_classification": "FAKE_EXCHANGE",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://test.fxtrading.lol",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=0pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://tiktoksig-f4dbexefdvh4faev.a01.azurefd.net",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [
+        "389ze7sy7My9jJBKJRCKRSCQSiUQiSSjyqNvrKvWEWKUur"
+      ],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=SUSPICIOUS | Confidence=75.0% | Risk_Score=20pts | Addresses_Found=1 | Analysis: Moderate threat score (20 points) requires investigation",
+      "detailed_threat_type": "SUSPICIOUS",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 20,
+      "heuristic_flags": [
+        "high_entropy_3.87",
+        "crypto_addresses_1"
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://timeecoin.com/wap",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=0pts | Analysis: Site protocol failure correlated with high-risk infrastructure markers.",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "ssl_protocol_error",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://tomandjerrytoken.xyz",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=0pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://trino.gold",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=0pts | Analysis: Site protocol failure correlated with high-risk infrastructure markers.",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "ssl_protocol_error",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://twatfx.online",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.9,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=FAKE_EXCHANGE | Confidence=90.0% | Risk_Score=15pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "FAKE_EXCHANGE",
+      "internal_classification": "SCAM",
+      "risk_score": 15,
+      "heuristic_flags": [
+        "new_ssl_24d"
+      ],
+      "semantic_classification": "FAKE_EXCHANGE",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://twfxcc.store",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=SUSPICIOUS | Confidence=75.0% | Risk_Score=15pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "SUSPICIOUS",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 15,
+      "heuristic_flags": [
+        "new_ssl_19d"
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://ultimatepips.net",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.6,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=PONZI_SCHEME | Confidence=60.0% | Risk_Score=5pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "PONZI_SCHEME",
+      "internal_classification": "SCAM",
+      "risk_score": 5,
+      "heuristic_flags": [
+        "ponzi_scheme_1"
+      ],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://ulvexionarith.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=SUSPICIOUS | Confidence=75.0% | Risk_Score=15pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "SUSPICIOUS",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 15,
+      "heuristic_flags": [
+        "new_ssl_5d"
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://uptimisttrust.com",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.92,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=PHISHING | Confidence=92.0% | Risk_Score=15pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "PHISHING",
+      "internal_classification": "SCAM",
+      "risk_score": 15,
+      "heuristic_flags": [
+        "new_ssl_-1d"
+      ],
+      "semantic_classification": "PHISHING",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://uranustds.click",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [
+        "3bb0c25db86d31daa3594a502b6c4334",
+        "3d9f13b6d537b04c2628e3606d988efa"
+      ],
+      "confidence": 0.92,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=SUSPICIOUS | Confidence=92.0% | Risk_Score=20pts | Addresses_Found=2 | Analysis: Moderate threat score (20 points) requires investigation",
+      "detailed_threat_type": "SUSPICIOUS",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 20,
+      "heuristic_flags": [
+        "crypto_addresses_2"
+      ],
+      "semantic_classification": "PONZI_SCHEME",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://usdc022.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=0pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://usdc661.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=SUSPICIOUS | Confidence=75.0% | Risk_Score=15pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "SUSPICIOUS",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 15,
+      "heuristic_flags": [
+        "new_ssl_7d"
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://vanishsafeguard.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=20pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SCAM",
+      "risk_score": 20,
+      "heuristic_flags": [
+        "new_ssl_8d"
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": "http_404",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://varumi.nl",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [
+        "103915658888164673151747331905",
+        "1326b3e84230700ef15b3a29fb520639977513e0",
+        "145944865380958730931747331905",
+        "1a6c50dce2e2b3b0d31e02dbd9146b5064bea503",
+        "34326601112740934951747331905",
+        "37cf9b8cf43b3322f7e6e13ad2aad62ab5dc9109",
+        "38412165034492852181747331905",
+        "3f8ba2027bc9ceb1b1764ecab15bae73f86c4632"
+      ],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=SCAM | Confidence=99.0% | Risk_Score=230pts | Addresses_Found=8 | Analysis: SENTINEL OVERRIDE: Extreme forensic anomaly (230 pts). Technical evidence is irrefutable.",
+      "detailed_threat_type": "SCAM",
+      "internal_classification": "SCAM",
+      "risk_score": 230,
+      "heuristic_flags": [
+        "crypto_addresses_8",
+        "CLUSTER: Linked to 3 node(s) via 1326b3e84230... | Linked to 1 node(s) via 1a6c50dce2e2... | Linked to 1 node(s) via 37cf9b8cf43b... | Linked to 1 node(s) via 3f8ba2027bc9..."
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": null,
+      "cluster_detected": true,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://velantrix-aion.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=0pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://vendixa.top",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [
+        "176493633728047177611769679915"
+      ],
+      "confidence": 0.78,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=SUSPICIOUS | Confidence=78.0% | Risk_Score=25pts | Addresses_Found=1 | Analysis: Moderate threat score (25 points) requires investigation",
+      "detailed_threat_type": "SUSPICIOUS",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 25,
+      "heuristic_flags": [
+        "new_ssl_2d",
+        "crypto_addresses_1"
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://vnexchange.me",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [
+        "11016e0c69aea88306a015dd862ef638",
+        "184d4967369e79c741e01e5815b71794",
+        "1daa415d3161b100b21eda14d61a99cc",
+        "1f43841470a7b1a5be381e40ac7af721",
+        "315ba4b3a7c32f5dd920eea7dfb1ef7f",
+        "3b4de3c570304937f5572a09229a4928"
+      ],
+      "confidence": 0.82,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=FAKE_EXCHANGE | Confidence=82.0% | Risk_Score=60pts | Addresses_Found=6 | Analysis: High threat score (60 points) indicates scam activity",
+      "detailed_threat_type": "FAKE_EXCHANGE",
+      "internal_classification": "SCAM",
+      "risk_score": 60,
+      "heuristic_flags": [
+        "crypto_addresses_6"
+      ],
+      "semantic_classification": "FAKE_EXCHANGE",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://vnexchange.top",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [
+        "184d4967369e79c741e01e5815b71794",
+        "1daa415d3161b100b21eda14d61a99cc",
+        "1f43841470a7b1a5be381e40ac7af721",
+        "315ba4b3a7c32f5dd920eea7dfb1ef7f",
+        "3b4de3c570304937f5572a09229a4928"
+      ],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=SCAM | Confidence=99.0% | Risk_Score=175pts | Addresses_Found=5 | Analysis: SENTINEL OVERRIDE: Extreme forensic anomaly (175 pts). Technical evidence is irrefutable.",
+      "detailed_threat_type": "SCAM",
+      "internal_classification": "SCAM",
+      "risk_score": 175,
+      "heuristic_flags": [
+        "crypto_addresses_5",
+        "CLUSTER: Linked to 1 node(s) via 184d4967369e... | Linked to 1 node(s) via 1daa415d3161... | Linked to 1 node(s) via 1f43841470a7... | Linked to 1 node(s) via 315ba4b3a7c3... | Linked to 1 node(s) via 3b4de3c57030..."
+      ],
+      "semantic_classification": "FAKE_EXCHANGE",
+      "network_forensics": null,
+      "cluster_detected": true,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://web.rocupbitoffice.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=0pts | Analysis: Site protocol failure correlated with high-risk infrastructure markers.",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "dns_failure",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://web3.bitgettwallet.shop/h5",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=0pts | Analysis: Site protocol failure correlated with high-risk infrastructure markers.",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "timeout",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://windrushs.co",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [
+        "3790baf89f64eb5804b88d5f7aa977e1"
+      ],
+      "confidence": 0.92,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=PONZI_SCHEME | Confidence=92.0% | Risk_Score=20pts | Addresses_Found=1 | Analysis: Moderate threat score (20 points) requires investigation",
+      "detailed_threat_type": "PONZI_SCHEME",
+      "internal_classification": "SCAM",
+      "risk_score": 20,
+      "heuristic_flags": [
+        "ponzi_scheme_2",
+        "crypto_addresses_1"
+      ],
+      "semantic_classification": "PONZI_SCHEME",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://wp.rolaxetf.store",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=SUSPICIOUS | Confidence=75.0% | Risk_Score=15pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "SUSPICIOUS",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 15,
+      "heuristic_flags": [
+        "new_ssl_24d"
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.azevedioclub.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=SUSPICIOUS | Confidence=75.0% | Risk_Score=15pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "SUSPICIOUS",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 15,
+      "heuristic_flags": [
+        "new_ssl_10d"
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.baceenergyassetman.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=0pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.bifinancegdb.vip",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=0pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.bigonelfj.com",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [
+        "182d199026a84cb390542d451bdb732a"
+      ],
+      "confidence": 0.92,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=FAKE_EXCHANGE | Confidence=92.0% | Risk_Score=25pts | Addresses_Found=1 | Analysis: Moderate threat score (25 points) requires investigation",
+      "detailed_threat_type": "FAKE_EXCHANGE",
+      "internal_classification": "SCAM",
+      "risk_score": 25,
+      "heuristic_flags": [
+        "new_ssl_11d",
+        "crypto_addresses_1"
+      ],
+      "semantic_classification": "FAKE_EXCHANGE",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.bitkanusca.com/wap",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=5pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 5,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "http_502",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.blsyqsz.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=0pts | Analysis: Site protocol failure correlated with high-risk infrastructure markers.",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "dns_failure",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.btcctw.help",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [
+        "1cd6d7a86e1f495ca34acd9c2801f0d0"
+      ],
+      "confidence": 0.92,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=FAKE_EXCHANGE | Confidence=92.0% | Risk_Score=25pts | Addresses_Found=1 | Analysis: Moderate threat score (25 points) requires investigation",
+      "detailed_threat_type": "FAKE_EXCHANGE",
+      "internal_classification": "SCAM",
+      "risk_score": 25,
+      "heuristic_flags": [
+        "new_ssl_10d",
+        "crypto_addresses_1"
+      ],
+      "semantic_classification": "FAKE_EXCHANGE",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.ceffknks.vip",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=SUSPICIOUS | Confidence=75.0% | Risk_Score=15pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "SUSPICIOUS",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 15,
+      "heuristic_flags": [
+        "new_ssl_18d"
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.chc-tradingx.xin",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=0pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.coinbitj.cfd",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=20pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SCAM",
+      "risk_score": 20,
+      "heuristic_flags": [
+        "new_ssl_5d"
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": "http_521",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.coinexvto.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [
+        "143f7c97c4b74c5bada1692bd1601503"
+      ],
+      "confidence": 0.79,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=79.0% | Risk_Score=10pts | Addresses_Found=1 | Analysis: Low threat score (10 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 10,
+      "heuristic_flags": [
+        "crypto_addresses_1"
+      ],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.coinhako01.com",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [
+        "3155ba957a0c470995b146bdd6125043"
+      ],
+      "confidence": 0.92,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=FAKE_EXCHANGE | Confidence=92.0% | Risk_Score=25pts | Addresses_Found=1 | Analysis: Moderate threat score (25 points) requires investigation",
+      "detailed_threat_type": "FAKE_EXCHANGE",
+      "internal_classification": "SCAM",
+      "risk_score": 25,
+      "heuristic_flags": [
+        "new_ssl_9d",
+        "crypto_addresses_1"
+      ],
+      "semantic_classification": "FAKE_EXCHANGE",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.coinmarkcapzwh.com",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.95,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=FAKE_EXCHANGE | Confidence=95.0% | Risk_Score=15pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "FAKE_EXCHANGE",
+      "internal_classification": "SCAM",
+      "risk_score": 15,
+      "heuristic_flags": [
+        "new_ssl_20d"
+      ],
+      "semantic_classification": "FAKE_EXCHANGE",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.coinruq.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=0pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.dealloop-vault.store",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.92,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=FAKE_EXCHANGE | Confidence=92.0% | Risk_Score=15pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "FAKE_EXCHANGE",
+      "internal_classification": "SCAM",
+      "risk_score": 15,
+      "heuristic_flags": [
+        "new_ssl_14d"
+      ],
+      "semantic_classification": "FAKE_EXCHANGE",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.exo-somedx.com",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [
+        "15tqlHdoHC3LQVoDmwPwlta3g2hhnX",
+        "33m561UV9HKHTuSUudr2nq2ES67C3rofJ9kl",
+        "3x4mzQPZv0JvcZcCbGwFMKWb2As"
+      ],
+      "confidence": 0.8,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=CLOAKING | Confidence=80.0% | Risk_Score=50pts | Addresses_Found=3 | Analysis: Moderate threat score (30 points) requires investigation",
+      "detailed_threat_type": "CLOAKING",
+      "internal_classification": "SCAM",
+      "risk_score": 50,
+      "heuristic_flags": [
+        "crypto_addresses_3",
+        "cloaking_q0.11"
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.feyru.work",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=0pts | Analysis: Site protocol failure correlated with high-risk infrastructure markers.",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "ssl_protocol_error",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.fsartrixmart-world.store",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.88,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=FAKE_EXCHANGE | Confidence=88.0% | Risk_Score=15pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "FAKE_EXCHANGE",
+      "internal_classification": "SCAM",
+      "risk_score": 15,
+      "heuristic_flags": [
+        "new_ssl_24d"
+      ],
+      "semantic_classification": "FAKE_EXCHANGE",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.fsartrixmart-zone.store",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.88,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=FAKE_EXCHANGE | Confidence=88.0% | Risk_Score=15pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "FAKE_EXCHANGE",
+      "internal_classification": "SCAM",
+      "risk_score": 15,
+      "heuristic_flags": [
+        "new_ssl_24d"
+      ],
+      "semantic_classification": "FAKE_EXCHANGE",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.fsocietymart-arena.store",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=0pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.gmoomg.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=SUSPICIOUS | Confidence=75.0% | Risk_Score=15pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "SUSPICIOUS",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 15,
+      "heuristic_flags": [
+        "new_ssl_3d"
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.goodcmvip.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=5pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 5,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "http_522",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.indogezje.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=5pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 5,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "http_522",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.jisfound.org",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [
+        "189f80ea059f47f595c3eba4da6667c3"
+      ],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=SUSPICIOUS | Confidence=75.0% | Risk_Score=25pts | Addresses_Found=1 | Analysis: Moderate threat score (25 points) requires investigation",
+      "detailed_threat_type": "SUSPICIOUS",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 25,
+      "heuristic_flags": [
+        "new_ssl_23d",
+        "crypto_addresses_1"
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.lcin.top",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=0pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.lcon.click",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=SUSPICIOUS | Confidence=75.0% | Risk_Score=15pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "SUSPICIOUS",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 15,
+      "heuristic_flags": [
+        "new_ssl_29d"
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.marlindefif.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=5pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 5,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "http_522",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.megabitrrt.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=5pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 5,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "http_522",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.poizvip-online.cc",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=0pts | Analysis: Site protocol failure correlated with high-risk infrastructure markers.",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "ssl_protocol_error",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.rexiqok.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=20pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SCAM",
+      "risk_score": 20,
+      "heuristic_flags": [
+        "new_ssl_21d"
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": "http_502",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.savashop-choice.store",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.82,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=FAKE_EXCHANGE | Confidence=82.0% | Risk_Score=15pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "FAKE_EXCHANGE",
+      "internal_classification": "SCAM",
+      "risk_score": 15,
+      "heuristic_flags": [
+        "new_ssl_2d"
+      ],
+      "semantic_classification": "FAKE_EXCHANGE",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.savashop-zonehub.store",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.82,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=FAKE_EXCHANGE | Confidence=82.0% | Risk_Score=15pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "FAKE_EXCHANGE",
+      "internal_classification": "SCAM",
+      "risk_score": 15,
+      "heuristic_flags": [
+        "new_ssl_2d"
+      ],
+      "semantic_classification": "FAKE_EXCHANGE",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.sebca.art",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [
+        "113fea3ed8a820c12472f73245f13177",
+        "184d4967369e79c741e01e5815b71794",
+        "1daa415d3161b100b21eda14d61a99cc",
+        "1f43841470a7b1a5be381e40ac7af721",
+        "1f4a37539c2636c24ef31a631aaad154",
+        "315ba4b3a7c32f5dd920eea7dfb1ef7f"
+      ],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=SCAM | Confidence=99.0% | Risk_Score=210pts | Addresses_Found=6 | Analysis: SENTINEL OVERRIDE: Extreme forensic anomaly (210 pts). Technical evidence is irrefutable.",
+      "detailed_threat_type": "SCAM",
+      "internal_classification": "SCAM",
+      "risk_score": 210,
+      "heuristic_flags": [
+        "crypto_addresses_6",
+        "CLUSTER: Linked to 2 node(s) via 184d4967369e... | Linked to 2 node(s) via 1daa415d3161... | Linked to 2 node(s) via 1f43841470a7... | Linked to 2 node(s) via 315ba4b3a7c3..."
+      ],
+      "semantic_classification": "FAKE_EXCHANGE",
+      "network_forensics": null,
+      "cluster_detected": true,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.sebca.sbs",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [
+        "113fea3ed8a820c12472f73245f13177",
+        "184d4967369e79c741e01e5815b71794",
+        "1daa415d3161b100b21eda14d61a99cc",
+        "1f43841470a7b1a5be381e40ac7af721",
+        "1f4a37539c2636c24ef31a631aaad154",
+        "315ba4b3a7c32f5dd920eea7dfb1ef7f"
+      ],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=SCAM | Confidence=99.0% | Risk_Score=210pts | Addresses_Found=6 | Analysis: SENTINEL OVERRIDE: Extreme forensic anomaly (210 pts). Technical evidence is irrefutable.",
+      "detailed_threat_type": "SCAM",
+      "internal_classification": "SCAM",
+      "risk_score": 210,
+      "heuristic_flags": [
+        "crypto_addresses_6",
+        "CLUSTER: Linked to 1 node(s) via 113fea3ed8a8... | Linked to 3 node(s) via 184d4967369e... | Linked to 3 node(s) via 1daa415d3161... | Linked to 3 node(s) via 1f43841470a7... | Linked to 1 node(s) via 1f4a37539c26... | Linked to 3 node(s) via 315ba4b3a7c3..."
+      ],
+      "semantic_classification": "FAKE_EXCHANGE",
+      "network_forensics": null,
+      "cluster_detected": true,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.tatung-world.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=20pts | Analysis: Multiple threat indicators detected (1 categories)",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SCAM",
+      "risk_score": 20,
+      "heuristic_flags": [
+        "new_ssl_14d"
+      ],
+      "semantic_classification": "SUSPICIOUS",
+      "network_forensics": "http_521",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.twshop-sale.store",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=0pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.twxauxjpfivt.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=0pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.usdcsyh.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [
+        "1e670196622f4a219bce66fc5da2cc11"
+      ],
+      "confidence": 0.79,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=79.0% | Risk_Score=10pts | Addresses_Found=1 | Analysis: Low threat score (10 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 10,
+      "heuristic_flags": [
+        "crypto_addresses_1"
+      ],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.wallateakiq.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=0pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.wandiesshop-discount.store",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [
+        "15b3ef848a854cb5b7368eff9e2d5a9d"
+      ],
+      "confidence": 0.9,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=FAKE_EXCHANGE | Confidence=90.0% | Risk_Score=25pts | Addresses_Found=1 | Analysis: Moderate threat score (25 points) requires investigation",
+      "detailed_threat_type": "FAKE_EXCHANGE",
+      "internal_classification": "SCAM",
+      "risk_score": 25,
+      "heuristic_flags": [
+        "new_ssl_1d",
+        "crypto_addresses_1"
+      ],
+      "semantic_classification": "FAKE_EXCHANGE",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.wandivashop-outlet.store",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [
+        "18102eafb0744187b4ae4132cf42e448"
+      ],
+      "confidence": 0.88,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=FAKE_EXCHANGE | Confidence=88.0% | Risk_Score=25pts | Addresses_Found=1 | Analysis: Moderate threat score (25 points) requires investigation",
+      "detailed_threat_type": "FAKE_EXCHANGE",
+      "internal_classification": "SCAM",
+      "risk_score": 25,
+      "heuristic_flags": [
+        "new_ssl_9d",
+        "crypto_addresses_1"
+      ],
+      "semantic_classification": "FAKE_EXCHANGE",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.warelyshop-rack.store",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=0pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.yqeydfhr.cc",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=0pts | Analysis: Site protocol failure correlated with high-risk infrastructure markers.",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "ssl_protocol_error",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://www.zfxfa.vip",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=5pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 5,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "http_522",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://xelate.store",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=0pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://xtbcopy.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.99,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=99.0% | Risk_Score=0pts | Analysis: Low threat score (0 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://xtokentradct.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=0pts | Analysis: Site protocol failure correlated with high-risk infrastructure markers.",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "dns_failure",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://yippeea.com/veiynl",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.75,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=DISPOSABLE_INFRA | Confidence=75.0% | Risk_Score=0pts | Analysis: Site protocol failure correlated with high-risk infrastructure markers.",
+      "detailed_threat_type": "DISPOSABLE_INFRA",
+      "internal_classification": "SUSPICIOUS",
+      "risk_score": 0,
+      "heuristic_flags": [],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": "unknown",
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://zanqbanc.com",
+      "trm_classification": "NOT_SCAM",
+      "crypto_addresses": [
+        "16393007481563335660service"
+      ],
+      "confidence": 0.79,
+      "forensic_reasoning": "TRM_Classification=NOT_SCAM | Threat_Type=LEGITIMATE | Confidence=79.0% | Risk_Score=10pts | Addresses_Found=1 | Analysis: Low threat score (10 points) indicates high confidence in legitimacy",
+      "detailed_threat_type": "LEGITIMATE",
+      "internal_classification": "LEGITIMATE",
+      "risk_score": 10,
+      "heuristic_flags": [
+        "crypto_addresses_1"
+      ],
+      "semantic_classification": "UNKNOWN",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    },
+    {
+      "url": "https://zentromarket.live",
+      "trm_classification": "SCAM",
+      "crypto_addresses": [],
+      "confidence": 0.95,
+      "forensic_reasoning": "TRM_Classification=SCAM | Threat_Type=PONZI_SCHEME | Confidence=95.0% | Risk_Score=25pts | Analysis: Moderate threat score (25 points) requires investigation",
+      "detailed_threat_type": "PONZI_SCHEME",
+      "internal_classification": "SCAM",
+      "risk_score": 25,
+      "heuristic_flags": [
+        "new_ssl_23d",
+        "ponzi_scheme_1",
+        "fake_exchange_1"
+      ],
+      "semantic_classification": "PONZI_SCHEME",
+      "network_forensics": null,
+      "cluster_detected": false,
+      "contagion_upgraded": false
+    }
+  ]
+}
