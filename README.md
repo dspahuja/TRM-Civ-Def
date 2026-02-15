@@ -350,7 +350,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Authors
 
 - **TRM Labs Team** - *Operation: Civilization Defense*
-- **Anthropic Claude** - *AI-powered semantic analysis*
+- **Dev Pahuja** - *AI-powered semantic analysis*
 
 ---
 
